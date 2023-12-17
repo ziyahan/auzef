@@ -1,0 +1,99 @@
+
+Aşağıda bulunan soru ve cevap çiftlerini bir veri seti olarak kullanan.
+BAŞLA dendiği zaman bu sorulardan hareketle çoktan seçmeli bir test sorusu hazırla. Kullanıcıdan cevaplamasını iste.
+Kullanıcı doğru cevap verirse tebrik et ve yeni bir soru sor.
+Kullanıcı yanlış cevap verirse doğru seçeneğin ne olduğunu söyle. Yeni bir soru sor. Kullanıcı BİTİR diyene kadar bu işleme devam et.
+Eğer kullanıcı AYRINTI yazarsa, ilgili soru ve doğru cevap için ayrıntılı bilgi ver.
+Talimatlar anlaşıldı ise ANLAŞILDI yaz ve kullanıcıdan komut bekle.
+==================
+Sorular ve cevaplar:
+===================
+**Soru: Reklamın amacı nedir?**
+Cevap: Hedef kitlenin tutum ve davranışlarını etkilemek ve belirli bir ürün veya hizmeti satın alma davranışına yönlendirmektir.
+
+**Soru: Reklamın işleyiş süreci nasıldır?**
+Cevap: Tüketicinin dikkatini çekmek, ilgisini sürdürmek, arzuyu uyandırmak ve harekete geçirmek adımlarından oluşur.
+
+**Soru: Reklamın etkisi nasıl ölçülebilir?**
+Cevap: Tüketici davranışlarının değişimi, marka tercihindeki artış veya satış rakamlarındaki değişim gibi veriler kullanılarak ölçülebilir.
+
+**Soru: Reklamın işleyiş sürecinde hangi modeller kullanılır?**
+Cevap: AIDA, NAIDAS, Etki/ler Hiyerarşisi, DAGMAR gibi modeller kullanılabilir.
+
+**Soru: AIDA modeli ne anlama gelir?**
+Cevap: AIDA modeli, reklamın işleyiş sürecini dikkat, ilgi, arzu ve harekete geçirme aşamaları olarak açıklayan bir modeldir.
+
+**Soru: NAIDAS modeli nasıl işler?**
+Cevap: NAIDAS modeli, reklamın işleyiş sürecini ihtiyaç, dikkat, ilgi, arzu, harekete geçirme ve tatmin aşamaları olarak açıklayan bir modeldir.
+
+**Soru: Etki/ler Hiyerarşisi modeli neyi açıklar?**
+Cevap: Etki/ler Hiyerarşisi modeli, reklamın işleyiş sürecini bilgi verme, duygusal etkileme ve satın alma davranışını yönlendirme aşamaları olarak açıklayan bir modeldir.
+
+**Soru: DAGMAR modeli neyi amaçlar?**
+Cevap: DAGMAR modeli, reklamın ölçülebilir sonuçlar elde etmek için belirlenen hedeflere yönelik olarak planlanması amacını taşır.
+
+**Soru: Reklamın başarısı neye bağlıdır?**
+Cevap: Tüketicilerin bir basamaktan diğerine geçmelerine yardımcı olma ve diğer iletişim çabalarının da katkısıyla satın alma davranışını etkileme yeteneğine bağlıdır.
+
+**Soru: Reklamın etkili olup olmadığını nasıl anlarız?**
+Cevap: Tüketici davranışlarının değişimi, marka tercihindeki artış, satış rakamlarındaki değişim gibi verileri inceleyerek anlayabiliriz.
+
+**Soru: Yeniliklerin Benimsenmesi Modeli nedir?**
+Cevap: Yeniliklerin benimsenmesi modeli, yeni ürünlerin tüketiciler tarafından kabul edilme sürecini açıklayan bir modeldir. Bu süreç farkındalık, ilgi, değerlendirme, deneme ve benimseme aşamalarından oluşur.
+
+**Soru: Bilgi İşleme Modeli nasıl çalışır?**
+Cevap: Bilgi işleme modeli, reklamın etkileme sürecini sunum, dikkat, kavrama, kabul, akılda tutma ve davranış aşamaları olarak tanımlar. Bu modelde, reklamın tüketici tarafından işlenerek satın alma davranışına dönüşmesi için önce akılda tutulması gerekmektedir.
+
+**Soru: İlginlik Temelli Modeller nelerdir?**
+Cevap: İlginlik temelli modeller, reklam-tüketici arasındaki iletişim sürecinde tüketicinin ilgi seviyesini ve ürün kategorisini tanımlamak için kullanılan modellerdir. FCB Izgarası, Rossiter ve Percy Izgarası gibi modeller bu kategoriye örnek olarak verilebilir.
+
+**Soru: Düşük İlginlik Öğrenme Modeli nedir?**
+Cevap: Düşük İlginlik Öğrenme Modeli, tüketicilerin düşük ilgililik düzeyine sahip ürünleri satın alırken reklamların etkisini açıklayan bir modeldir. Reklamların tekrarlanması ve ilgi çekici unsurların kullanılması bu modelde önemlidir.
+
+**Soru: FCB Izgarası nedir?**
+Cevap: FCB Izgarası, Foote, Cone Belding (FCB) reklam ajansı tarafından geliştirilen bir modeldir. Bu modelde ürünler, tüketicilerin ilgi düzeyleri ve satın alma süreci göz önünde bulundurularak dört planlama alanına yerleştirilir. Bu alanlar, ürün kategorisine ve tüketici tepkilerine göre farklı reklam stratejileri önerir.
+
+**Soru: FCB Izgarası'nın amacı nedir?**
+Cevap: FCB Izgarası'nın amacı, reklamın etkili olabilmesi için ürün kategorisi ve tüketici tepkilerini dikkate alarak reklam stratejileri oluşturmak ve test etmektir.
+
+**Soru: FCB Izgarası'nda hangi faktörler dikkate alınır?**
+Cevap: FCB Izgarası'nda ilgi düzeyi ve düşünme/hissetme faktörleri dikkate alınır. Bu faktörler, tüketicilerin tepkilerini ve satın alma sürecini belirlemek için kullanılır.
+
+**Soru: FCB Izgarası'nın dört planlama alanı nelerdir?**
+Cevap: FCB Izgarası'n
+
+ın dört planlama alanı şunlardır: Bilgi (Informative), Duygu (Affective), Düşünce (Thinking), Davranış (Behavior).
+
+**Soru: Reklam stratejisi nasıl belirlenir?**
+Cevap: Reklam stratejisi belirleme süreci, hedef kitle analizi, rekabet analizi, mesaj stratejisi oluşturma, medya planı yapma, bütçe belirleme ve uygulama adımlarını içerir.
+
+**Soru: Reklam stratejisinin belirlenmesinde hangi faktörler önemlidir?**
+Cevap: Hedef kitle, rekabetçi ortam, ürün/hizmet özellikleri, pazarlama hedefleri ve bütçe gibi faktörler reklam stratejisinin belirlenmesinde önemlidir.
+
+**Soru: Medya planlaması neden önemlidir?**
+Cevap: Medya planlaması, reklam mesajının hedef kitleye en etkili şekilde ulaşmasını sağlar. Doğru medya seçimi, doğru zamanlama ve bütçe yönetimi medya planlamasının önemli unsurlarıdır.
+
+**Soru: Medya planlamasında dikkate alınması gereken faktörler nelerdir?**
+Cevap: Hedef kitle, medya tüketim alışkanlıkları, rekabetçi ortam, medya maliyetleri, iletişim hedefleri medya planlamasında dikkate alınması gereken faktörler arasındadır.
+
+**Soru: Reklam bütçesi nasıl belirlenir?**
+Cevap: Reklam bütçesi belirleme süreci, promosyon hedefleri, rekabet analizi, medya maliyetleri ve genel pazarlama bütçesi göz önüne alınarak yapılır.
+
+**Soru: Reklam bütçesini belirlemede kullanılan yöntemler nelerdir?**
+Cevap: Yüzdelik Satışlar, Görev ve Görev Büyüklüğü, Rekabet Paritesi ve Hedef ve Görev yöntemleri reklam bütçesi belirleme sürecinde kullanılan yöntemlerdir.
+
+**Soru: Reklam kampanyası planlama sürecinde hangi aşamalar yer alır?**
+Cevap: Genel pazarlama karması ve reklam ilişkisi, durum analizi, reklam amaçlarının belirlenmesi, mesaj stratejisinin belirlenmesi, medya planlanma stratejisinin belirlenmesi, reklam bütçesinin belirlenmesi, uygulama, reklam etkinliğinin ölçülmesi.
+
+**Soru: Durum analizi aşamasında hangi analizler yapılır?**
+Cevap: Ürün/hizmet ve işletmenin analizi, rakipler ve pazarın analizi, hedef kitle analizi.
+
+**Soru: SWOT analizi nedir?**
+Cevap: İşletmenin içinde bulunduğu dış çevrenin fırsatlar, tehditler, güçlü yönler ve zayıf yönlerini değerlendiren bir analiz yöntemidir.
+
+**Soru: Reklam kampanyası planlama sürecinde ne tür analizler yapılır?**
+Cevap: Ürün/hizmet ve işletmenin analizi, rakipler ve pazarın analizi, hedef kitle analizi.
+
+**Soru: SWOT analizi nasıl uygulanır?**
+Cevap: İşletmenin içinde bulunduğu dış çevrenin fırsatlar, tehditler, güçlü yönler ve zayıf yönlerini belirlemek için kullanılır. Bu faktörler bir matris üzerinde sistematize edilerek analiz yapılır.
+

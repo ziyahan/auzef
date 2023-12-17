@@ -1,0 +1,103 @@
+Aşağıda bulunan soru ve cevap çiftlerini bir veri seti olarak kullanan.
+BAŞLA dendiği zaman bu sorulardan hareketle çoktan seçmeli bir test sorusu hazırla. Kullanıcıdan cevaplamasını iste. 
+Her bir sorunun sonunda, muhtemel sınavda çıkma yüzdesini de göster.
+Kullanıcı doğru cevap verirse tebrik et ve yeni bir soru sor.
+Kullanıcı yanlış cevap verirse doğru seçeneğin ne olduğunu söyle. Yeni bir soru sor. Kullanıcı BİTİR diyene kadar bu işleme devam et.
+Eğer kullanıcı AYRINTI yazarsa, ilgili soru ve doğru cevap için ayrıntılı bilgi ver. 
+Talimatlar anlaşıldı ise ANLAŞILDI yaz ve kullanıcıdan komut bekle.
+
+==================
+Sorular ve cevaplar:
+===================
+
+AKÇT'nin acronimi nedir?
+ Cevap: AKÇT, Avrupa Kömür ve Çelik Topluluğu'nun kısaltmasıdır.
+AKÇT hangi tarihte kurulmuştur? 
+Cevap: AKÇT, 18 Nisan 1951 tarihinde kurulmuştur.
+Topluluğun kurucu ülkeleri hangileridir? 
+Cevap: Almanya, Belçika, Fransa, Hollanda, İtalya ve Lüksemburg.
+Paris ve Roma Antlaşmaları'nın yapıldığı tarihler nelerdir?
+Cevap: Paris Antlaşması 1951, Roma Antlaşmaları ise 1957 tarihlerinde yapılmıştır.
+Avrupa Tek Senedi hakkında bilgi veriniz.
+ Cevap: Avrupa Tek Senedi, 1987'de imzalanan bir anlaşma olup AB'nin iç pazarı ve ekonomik entegrasyonunu sağlamayı amaçlar.
+1981 yılında üye olan ülke hangisidir? 
+Cevap: Yunanistan.
+Paris Antlaşması hangi tarihte imzalanmıştır? 
+Cevap: Paris Antlaşması, 18 Nisan 1951 tarihinde imzalanmıştır.
+Avrupa Tek Senedi ile hedeflenen politikaları özetleyiniz. 
+Cevap: Avrupa Tek Senedi, AB içinde serbest dolaşımı sağlamayı, ekonomik entegrasyonu artırmayı ve tek bir iç pazar oluşturmayı hedefler.
+Roma Antlaşması’nın tarihi nedir? 
+Cevap: Roma Antlaşmaları, 25 Mart 1957 tarihinde imzalanmıştır.
+Schuman Planı hakkında bilgi veriniz. 
+Cevap: Schuman Planı, 1950'de önerilen bir plan olup Fransa, Almanya, İtalya, Hollanda, Belçika ve Lüksemburg arasında kömür ve çelik üretimini ortaklaşa kontrol etmeyi amaçlar.
+1986’da hangi ülkeler AB üyesi olmuştur?
+ Cevap: İspanya ve Portekiz.
+EURATOM hangi yıl kurulmuştur? 
+Cevap: EURATOM, 1957 yılında kurulmuştur.
+Maastricht Antlaşması hakkında bilgi veriniz. 
+Cevap: Maastricht Antlaşması, 1992 yılında imzalanmış olup AB'nin siyasi birliği ve Euro'nun kurulması gibi konuları içerir.
+Kopenhag Kriterlerini maddeler halinde yazınız. 
+Cevap:
+Siyasi kriterler
+Ekonomik kriterler
+Hukukun üstünlüğü ve insan haklarına saygı
+Amsterdam Antlaşmasını özetleyiniz. 
+Cevap: Amsterdam Antlaşması, 1997 yılında imzalanmış olup AB'nin genişleme sürecini ve iç politikalarını düzenler.
+Lizbon Stratejisi Avrupa için ne ifade etmektedir? Özetleyiniz.
+ Cevap: Lizbon Stratejisi, 2000 yılında kabul edilmiş bir ekonomik ve sosyal reform programı olup AB'nin rekabet gücünü artırmayı hedefler.
+Avrupa Parlamentosu kaç üyeden oluşur? 
+Cevap: 705 üye.
+Avrupa Parlamentosu Başkanı kaç yıl görev yapar? 
+Cevap: 2.5 yıl.
+Parlamentonun görev tanımı nedir?
+Cevap: AB yasama organı olarak yasama sürecine katılır, bütçe onayı verir ve AB politikalarını denetler.
+Avrupa Komisyonu’nun yapısı hakkında kısa bilgi veriniz. 
+Cevap: Avrupa Komisyonu, AB'nin yürütme organıdır ve her biri belirli bir politika alanına odaklanan komiserlerden oluşur.
+Avrupa Konseyi’nin yetkileri nelerdir? 
+Cevap: Avrupa Konseyi, AB liderlerinin toplandığı bir forumdur ve stratejik kararlar alır, ancak yasama görevi yoktur.
+AB Zirvesinin önemi hakkında bilgi veriniz. 
+Cevap: AB Zirvesi, AB liderlerinin bir araya gelip politika belirlediği ve stratejik kararlar aldığı bir toplantıdır.
+AB Zirve Başkanının görevleri nelerdir? 
+Cevap: AB Zirve Başkanı, AB Zirvesi'ni yönetir, toplantıyı düzenler ve AB'nin gündemini yönlendirir.
+Daimi Temsilciler Komitesine neden gerek duyulmaktadır? Açıklayınız. 
+Cevap: Daimi Temsilciler Komitesi, AB ülkelerinin büyükelçilerinden oluşan bir kuruldur ve AB politikalarını hazırlar, koordinatörlük yapar.
+Avrupa Birliği Adalet Divanının görevleri nelerdir? 
+Cevap: AB Adalet Divanı, AB hukukunu yorumlar ve AB hukukuna aykırı davranışları denetler.
+Avrupa Yatırım Bankası hakkında bilgi veriniz. 
+Cevap: Avrupa Yatırım Bankası, AB'nin ekonomik projelerine finansal destek sağlayan bir finans kurumudur.
+Ombudsmanlık kurumunu kısaca özetleyiniz. 
+Cevap: Ombudsman, AB vatandaşlarının AB kurumlarına karşı şikayetlerini inceleyen bir bağımsız kurumdur.
+Sayıştay'ın görevleri nelerdir? 
+Cevap: Sayıştay, AB bütçesinin etkin bir şekilde kullanılıp kullanılmadığını denetler.
+Avrupa Birliği Merkez Bankası’nın işleyişi nasıldır? 
+Cevap: ECB, Euro'yu çıkaran ülkelerin para politikasını koordine eder ve fiyat istikrarını sağlamayı amaçlar.
+AB’de karar alma süreci hakkında bilgi veriniz. 
+Cevap: Kararlar genellikle Avrupa Parlamentosu, Avrupa Konseyi ve Avrupa Komisyonu arasındaki müzakereler sonucunda alınır.
+AB'nin genişleme politikalarını özetleyiniz. 
+Cevap: AB'nin genişleme politikaları, demokrasi, istikrar ve ekonomik gelişmeyi teşvik ederek AB'ye yeni üye ülkeler eklemeyi amaçlar.
+Üçüncü genişleme hangi yıl olmuştur ve hangi ülkeler AB üyesi olmuştur? Potansiyel aday ülkeleri yazınız.
+ Cevap: 1995'te gerçekleşen üçüncü genişleme ile İsveç, Finlandiya ve Avusturya AB üyesi olmuştur. Potansiyel aday ülkeler zamanla değişebilir.
+Türkiye ile birlikte aday olan diğer ülkeleri yazınız. 
+Cevap: Arnavutluk, Karadağ, Kuzey Makedonya, Sırbistan ve Türkiye.
+Helsinki Zirvesi’nin önemi nedir? 
+Cevap: Helsinki Zirvesi, 1999'da düzenlenmiş ve AB için genişleme sürecini hızlandırmış, aday ülkelerle ilişkileri güçlendirmiştir.
+Lüksemburg Zirvesi'nde hangi karar alınmıştır?
+ Cevap: Lüksemburg Zirvesi'nde 1997'de Avrupa Birliği'ne katılım için müzakerelere başlanması kararı alınmıştır.
+Kopenhag Kriterleri nelerdir? 
+Cevap: Kopenhag Kriterleri, demokrasi, hukukun üstünlüğü, insan hakları ve piyasa ekonomisinin varlığı gibi kriterlerdir.
+KOB ne demektir? Kısaca açıklayınız.
+ Cevap: KOB, Katılım Ortaklığı Belgesi'ni ifade eder. Bu belgeler, aday ülkelerin AB'ye uyumlarını değerlendirmek için kullanılır.
+Ulusal Program neden önemlidir? 
+Cevap: Ulusal Programlar, aday ülkelerin AB'ye uyum süreçlerini belirler ve izler, bu nedenle önemlidir.
+AB Hukuku nasıl işler? 
+Cevap: AB Hukuku, AB kurumları tarafından belirlenen ve üye ülkeler tarafından uygulanan ortak kurallar ve normlardan oluşur.
+Ankara Antlaşması'nın önemini kısaca özetleyiniz. 
+Cevap: Ankara Antlaşması, 1963 yılında imzalanmış ve Türkiye ile AB arasında gümrük birliğini kurmayı amaçlamıştır.
+Kıbrıs'ın AB üyesi olması Türkiye ile Birlik ilişkilerini nasıl etkilemiştir? 
+Cevap: Kıbrıs'ın AB üyesi olması, Türkiye ile AB arasındaki ilişkileri olumsuz etkilemiş ve çözüm sürecini etkilemiştir.
+2005 yılı İlerleme raporu hakkında bilgi veriniz. 
+Cevap: 2005 İlerleme Raporu, aday ülkelerin AB'ye uyum süreçlerini değerlendiren bir rapordur.
+2006 Yılı Katılım Ortaklığı Belgesi’nin önemli konu başlıkları nelerdir? 
+Cevap: Katılım Ortaklığı Belgesi, aday ülkelerin AB ile uyumlarına odaklanan konu başlıklarını içerir.
+2000-2012 yılları arasında Birlik ile Türkiye arasındaki temel anlaşmazlıkları kısaca özetleyiniz. 
+Cevap: Temel anlaşmazlıklar arasında Gümrük Birliği'nin tam uygulanması, Kıbrıs sorunu ve vize muafiyeti bulunmaktadır.

@@ -1,0 +1,77 @@
+Aşağıda bulunan soru ve cevap çiftlerini bir veri seti olarak kullanan.
+BAŞLA dendiği zaman bu sorulardan hareketle çoktan seçmeli bir test sorusu hazırla. Kullanıcıdan cevaplamasını iste. 
+Her bir sorunun sonunda, muhtemel sınavda çıkma yüzdesini de göster.
+Kullanıcı doğru cevap verirse tebrik et ve yeni bir soru sor.
+Kullanıcı yanlış cevap verirse doğru seçeneğin ne olduğunu söyle. Yeni bir soru sor. Kullanıcı BİTİR diyene kadar bu işleme devam et.
+Eğer kullanıcı AYRINTI yazarsa, ilgili soru ve doğru cevap için ayrıntılı bilgi ver. 
+Talimatlar anlaşıldı ise ANLAŞILDI yaz ve kullanıcıdan komut bekle.
+==================
+Sorular ve cevaplar:
+===================
+Soru: İletişim neden insanın toplumsallaşması ve birey olarak değer kazanmasında etkin bir role sahiptir? Cevap: İletişim, insanın toplumla ve çevresiyle etkileşim kurmasını sağlayarak toplumsal ilişkiler kurmasına ve birey olarak değer kazanmasına yardımcı olur.
+Soru: Gazetecilik ne zaman ortaya çıkmıştır? Cevap: Gazetecilik, Rönesans, Reformasyon, Aydınlanma ve Sanayi Devrimi ile birlikte Batı'da ortaya çıkmıştır.
+Soru: Matbaanın icadı gazetecilik faaliyetlerini nasıl etkilemiştir? Cevap: Matbaanın icadı, gazetelerin yaygınlaşmasını sağlayarak gazetecilik faaliyetlerini kolaylaştırmış ve yaygınlaşmasını sağlamıştır.
+Soru: Gazetelerin siyasal amaçlarla kullanılması hangi dönemlerde gerçekleşmiştir? Cevap: Gazetelerin siyasal amaçlarla kullanılması, Fransa ve Osmanlı'da 18. yüzyıldan başlayarak gerçekleşmiştir.
+Soru: Basılı eserlerin etkisi ve bilginin yayılması hangi engellemelere rağmen devam etmiştir? Cevap: Basılı eserler, kilise sansürü gibi engellemelere rağmen bilginin yayılmasını sağlamış ve toplumsal düzeni etkilemiştir.
+Soru: Kilisenin sansür uygulamasının nedeni nedir? Cevap: Kilisenin sansür uygulamasının nedeni, Kopernik ve Galileo gibi bilim insanlarının dünya merkezli evren anlayışını sorgulamaları ve kilisenin dogmatik sistemini tehdit etmeleridir.
+Soru: Gazetecilik faaliyetleri hangi dönemde hızla gelişmiştir? Cevap: Gazetecilik faaliyetleri 17. yüzyılda hızla gelişmiştir.
+Soru: İletişimin insan yaşamındaki önemi nedir? Cevap: İletişim, insanın toplumsal yaşamda anlam ve değer kazanması için gereklidir. İnsanlar iletişim kurarak fikirlerini paylaşır, bilgi alışverişinde bulunur ve ilişkiler kurar.
+Soru: Gazetecilik faaliyetinin temelinde hangi nedenler yatar? Cevap: Gazetecilik faaliyetinin temelinde ekonomik ve siyasal nedenler bulunur. Gazeteler, bilginin yayılması ve haberlerin duyurulması yanında ekonomik bültenlerin ve siyasi amaçların da yayılmasını sağlar.
+Soru: Hangi dönemlerde gazetecilik faaliyetleri önemli gelişmeler kaydetmiştir? Cevap: Gazetecilik faaliyetleri Rönesans, Reformasyon, Aydınlanma ve Sanayi Devrimi dönemlerinde önemli gelişmeler kaydetmiştir.
+Soru: Osmanlı'da ilk gazete ne zaman yayımlanmıştır? Cevap: Osmanlı'da ilk gazete, 1831 yılında yayımlanan Takvim-i Vakayi'dir.
+Soru: Osmanlı'da ilk matbaa ne zaman kurulmuştur? Cevap: Osmanlı'da ilk matbaa, 16. yüzyılın başında kurulmuştur.
+Soru: İlk Türkçe eser hangi matbaada yayımlanmıştır? Cevap: İlk Türkçe eser, İbrahim Müteferrika'nın kurduğu matbaada yayımlanmıştır.
+Soru: Osmanlı'daki ilk gazetecilik faaliyeti kimin girişimiyle gerçekleşmiştir? Cevap: Osmanlı'daki ilk gazetecilik faaliyeti, Fransız Büyükelçisi Verninac'ın girişimiyle gerçekleşmiştir.
+Soru: Osmanlı'da basınla ilgili ilk yasal düzenleme hangi tarihte yapılmıştır? Cevap: Osmanlı'da basınla ilgili ilk yasal düzenleme, 1857 yılında çıkarılan Basmahane Nizamnamesi'dir.
+Soru: Osmanlı'da basın özgürlüğü konusunda hangi yasal düzenlemeler yapılmıştır? Cevap: Osmanlı'da basın özgürlüğü konusunda 1857 Basmahane Nizamnamesi, 1864 Matbuat Nizamnamesi ve 1876 Kanunu Esasi gibi yasal düzenlemeler yapılmıştır.
+Soru: Osmanlı'da basın faaliyetlerine ilişkin hangi kanunlar önemli rol oynamıştır? Cevap: Osmanlı'da basın faaliyetlerine ilişkin önemli rol oynayan kanunlar arasında 1864 Matbuat Nizamnamesi ve 1876 Kanunu Esasi bulunmaktadır.
+Soru: Osmanlı'da basın faaliyetleri hangi dönemde daha özgür hale gelmiştir? Cevap: Osmanlı'da basın faaliyetleri, II. Meşrutiyet döneminde ve 1909 Matbuat Kanunu'nun yeniden yürürlüğe konmasıyla daha özgür hale gelmiştir.
+Soru: Osmanlı'da basın faaliyetlerini denetleyen kanunlar hangileridir? Cevap: Osmanlı'da basın faaliyetlerini denetleyen kanunlar arasında 1857 Basmahane Nizamnamesi ve 1858 Osmanlı Ceza Kanunu bulunmaktadır.
+Soru: Basınla ilgili yasal düzenlemeler ve faaliyetlerin durumu hangi dönemde ele alınmıştır? Cevap: Basınla ilgili yasal düzenlemeler ve faaliyetler, 3. Cumhuriyet döneminde ele alınmıştır.
+Soru: Teşkilat-ı Esasiye Kanunu ne zaman gündeme gelmiştir? Cevap: Teşkilat-ı Esasiye Kanunu, 1924 yılında gündeme gelmiştir.
+Soru: Basın özgürlüğü hangi yasayla koruma altına alınmıştır? Cevap: Basın özgürlüğü, Teşkilat-ı Esasiye Kanunu ile koruma altına alınmıştır.
+Soru: Takrir-i Sükûn Kanunu'nun çıkmasına ne neden olmuştur? Cevap: Ülkenin içinde bulunduğu karmaşa ve isyan hareketleri, Takrir-i Sükûn Kanunu'nun çıkmasına neden olmuştur.
+Soru: 1931 tarihli Basın Kanunu neyi düzenlemiştir? Cevap: 1931 tarihli Basın Kanunu, basının sıkı bir denetim altına alınmasını düzenlemiştir.
+Soru: Basın Kanunu'nda yapılan değişikliklerle ne gerçekleşmiştir? Cevap: Basın Kanunu'nda yapılan değişikliklerle basının sıkı bir denetim altına alınması gerçekleşmiştir.
+Soru: Takrir-i Sükûn Kanunu hangi dönemde önem taşımaktadır? Cevap: Takrir-i Sükûn Kanunu, 1925'ten sonra önem taşımaktadır.
+Soru: Takrir-i Sükûn Kanunu'nun 1. maddesi neyi içermektedir? Cevap: Takrir-i Sükûn Kanunu'nun 1. maddesi, irticaa, isyana ve memleketin nizam-ı içtimaisini ve huzur ve sükûnu ve emniyet ve tahrikât ve teşvikat ve teşebbüsat ve neşriyatı hükümetin, Reisicumhurun tasdiki ile re'sen ve idareten men'e mezun olduğunu içermektedir.
+Soru: Hangi dönemde basınla ilgili düzenlemelerde devrim niteliğinde değişiklikler yaşanmıştır? Cevap: Özellikle 1925'ten sonra basınla ilgili düzenlemelerde devrim niteliğinde değişiklikler yaşanmıştır.
+Soru: 4. Cumhuriyet döneminde hangi yasa basın özgürlüğünü kısıtlamıştır? Cevap: Takrir-i Sükun Kanunu basın özgürlüğünü kısıtlamıştır. 
+Soru: Takrir-i Sükun Kanunu hangi dönemde yürürlüğe girmiştir? Cevap: Takrir-i Sükun Kanunu, 1925 yılında yürürlüğe girmiştir. 
+Soru: Takrir-i Sükun Kanunu'nun amacı nedir? Cevap: Takrir-i Sükun Kanunu, Şeyh Sait isyanının bastırılması ve Atatürk ilke ve inkılâplarının ülkede yerleştirilmesine yardımcı olmayı amaçlamaktadır. 
+Soru: Takrir-i Sükun Kanunu'nun etkileri nelerdir? Cevap: Takrir-i Sükun Kanunu, basın hareketinin denetim altına alınmasında önemli bir rol oynamıştır. 
+Soru: 1924 tarihli Teşkilatı Esasiye Kanunu hangi hükme yer vermektedir? Cevap: Teşkilatı Esasiye Kanunu, II. Meşrutiyet döneminde yürürlüğe konulan Kanunu Esasi'nin "matbuat hürriyeti" hükmünü içermektedir. 
+Soru: Takrir-i Sükun Kanunu'nun diğer adı nedir? Cevap: Takrir-i Sükun Kanunu'nun diğer adı Devrim Kanunu'dur.
+ Soru: Hangi olay Takrir-i Sükun Kanunu'nun yürürlüğe girmesine neden olmuştur? Cevap: Şeyh Sait isyanı sonrasında yürürlüğe konulan Takrir-i Sükun Kanunu'nun yürürlüğe girmesine neden olmuştur. 
+Soru: Takrir-i Sükun Kanunu'nun amacı neydi? Cevap: Takrir-i Sükun Kanunu'nun amacı, içinde basının da yer aldığı pek çok kurumu etkilemek ve devrimlerin ülkede yerleştirilmesine yardımcı olmaktı. 
+Soru: Takrir-i Sükun Kanunu'nun etkileri nelerdir? Cevap: Takrir-i Sükun Kanunu, basının denetim altına alınması ve muhalefetin bastırılması konusunda etkili olmuştur. 
+Soru: Basın özgürlüğünün ele alındığı ilk anayasal metin hangisidir? Cevap: 1924 tarihli Teşkilatı Esasiye Kanunu, basın özgürlüğünün ele alındığı ilk anayasal metindir.
+Soru: Cumhuriyet döneminde kaç tane basın kanunu çıkarılmıştır? Cevap: Cumhuriyet döneminde 3 tane basın kanunu çıkarılmıştır. 
+Soru: 1931 Matbuat Kanunu'nun hangi maddesi gazete ve dergi çıkarmak isteyenler için neleri kapsamaktadır? Cevap: 1931 Matbuat Kanunu'nun 9. maddesi, gazete ve dergi çıkarmak isteyenlerin çıkaracakları yerin en yüksek mülki amire bilgi vermesini ve beyanname vermelerini gerektirmektedir. 
+Soru: 1938'deki değişiklikle basın kuruluşlarının yapması gereken yeni yükümlülükler nelerdir? Cevap: 1938'deki değişiklikle gazete ve dergi çıkartacak olan kuruluşların ruhsatname almanın yanı sıra para depo etmeleri de bir zorunluluk haline gelmiştir. 
+Soru: Cumhuriyet dönemi basın rejiminin etkisi nedir? Cevap: Cumhuriyet dönemi basın rejimi, basın üzerindeki kontrolü artırarak basın siyaset ilişkilerinin sıkı bir şekilde kontrol altına alınmasını sağlamıştır. 
+Soru: Basın Birliği'nin rolü nedir? Cevap: Basın Birliği, 1938-1946 arasındaki dönemde basın üzerindeki denetimde önemli bir rol oynamıştır. 
+Soru: 1946 sonrası basın siyaset ilişkilerinde ne gibi değişiklikler olmuştur? Cevap: 1946 sonrası çok partili siyasal yaşama geçilmesiyle birlikte basın üzerindeki sıkı kontrol gevşemiştir. 
+Soru: Gazeteciler Cemiyeti ne zaman kurulmuştur? Cevap: Gazeteciler Cemiyeti 1946 yılında kurulmuştur. 
+Soru: Gazeteciler Cemiyeti'nin adı daha sonra ne olarak değişmiştir? Cevap: Gazeteciler Cemiyeti'nin adı 1993 yılında Türkiye Gazeteciler Cemiyeti olarak değiştirilmiştir.
+
+Soru: 1945 sonrası Türkiye'de hangi siyasi değişimler yaşanmıştır? Cevap: 1945 sonrasında Türkiye'de çok partili siyasal yaşama geçiş yaşanmıştır.
+Soru: 1950'ye kadar Türkiye'de hangi alanlarda demokratikleşme ve rahatlama görülmüştür? Cevap: 1950'ye kadar Türkiye'de düşün alanında, ekonomik alanda ve toplumsal alanda demokratikleşme ve rahatlama görülmüştür.
+Soru: II. Dünya Savaşı'nın sona ermesiyle dünyada hangi değişimler ortaya çıkmıştır? Cevap: II. Dünya Savaşı'nın sona ermesiyle dünyada yeni oluşumlar, 2 kutuplu dünya ve Soğuk Savaş dönemi ortaya çıkmıştır.
+Soru: Basın hangi dönemde görece özgürlükler yaşamıştır? Cevap: Basın, 1945 ile 1950 yılları arasında görece özgürlükler yaşamıştır.
+Soru: DP'nin kuruluşu Türk siyaseti açısından hangi öneme sahiptir? Cevap: DP'nin kuruluşu Türk siyaseti açısından çok önemli bir gelişmedir.
+Soru: 1946 seçimleri Türkiye için neden önemlidir? Cevap: 1946 seçimleri Türkiye için ilk çok partili seçimlerdir.
+Soru: Yalta ve Potsdam Konferansları ne zaman gerçekleşmiştir? Cevap: Yalta Konferansı 1945, Potsdam Konferansı ise 1945 yılında gerçekleşmiştir.
+Soru: II. Dünya Savaşı sonucunda dünya nasıl bir döneme girmiştir? Cevap: II. Dünya Savaşı sonucunda dünya 2 kutuplu dünya ve Soğuk Savaş dönemine girmiştir.
+Soru: Türkiye , II. Dünya Savaşı'ndan  sonra hangi liderin etkisi altına girmiştir? Cevap: Türkiye, II. Dünya Savaşı'ndan galip çıkan ABD'nin lideri konumundaki etkisi altına girmiştir.
+Soru: 1945 ile 1950 yılları arasında Türkiye'de hangi alanlarda gelişmeler yaşanmıştır? Cevap: 1945 ile 1950 yılları arasında Türkiye'de siyasal, sosyal ve kültürel alanlarda hızlı gelişmeler yaşanmıştır.
+Soru: 1950-1960 yılları arasında hangi siyasi parti iktidarda bulunmuştur? Cevap: Demokrat Parti (DP) 
+Soru: Demokrat Parti'nin iktidara gelmesiyle ne gibi değişiklikler yaşanmıştır? Cevap: Demokrat Parti'nin iktidara gelmesiyle yeni bir basın kanunu kabul edilmiştir. 
+Soru: 1954 seçimlerinden sonra basın-iktidar ilişkileri nasıl değişmiştir? Cevap: 1954 seçimlerinden sonra basın-iktidar ilişkileri gerginleşmiş ve çeşitli olumsuz gelişmeler yaşanmıştır. 
+Soru: Hangi kanun Demokrat Parti iktidarı döneminde basınla ilgili olarak çıkartılmıştır? Cevap: 1952 yılında çıkartılan 5953 sayılı Basın-İş Kanunu. 
+Soru: Hangi olaylar basın özgürlüğünün kısıtlandığı dönemin sonuçlarıdır? Cevap: Gazetecilerin hapse konması, besleme basının ortaya çıkması ve radyoların taraflı yayınları bu dönemin sonuçlarıdır. 
+Soru: 1961 Anayasası'nda basın özgürlüğü ile ilgili hangi hükümler yer almıştır? Cevap: 1961 Anayasası'nda TRT'nin bağımsız ve tarafsız bir özerk yapıya sahip olması hükmü yer almış ve basın özgürlüğünün korunması devletin sorumluluğuna verilmiştir.
+ Soru: Basın-iktidar ilişkileri ne zaman sona ermiştir? Cevap: Basın-iktidar ilişkileri 1960 yılının 27 Mayıs'ında gerçekleşen askeri ihtilalle sona ermiştir. 
+Soru: 1950-1960 dönemi Türk basın hayatında ne gibi önemli gelişmelere sahne olmuştur? Cevap: 1950-1960 dönemi Türk basın hayatında önemli gelişmeler yaşanmış ve basın açısından olumlu gelişmeler kaydedilmiştir. 
+Soru: 1950 yılında Türk siyasi yaşamında ne gibi bir dönüm noktası yaşanmıştır? Cevap: 1950 yılında Türk siyasi yaşamında Cumhuriyet tarihinin farklı bir siyasi partisi olan Demokrat Parti'nin iktidara gelmesiyle dönüm noktası yaşanmıştır. 
+Soru: Demokrat Parti'nin basınla olan ilişkisi nasıldır? Cevap: Demokrat Parti'nin basınla olan ilişkisi ilk yıllarında son derece titiz ve dikkatli olmuştur, ancak zamanla ilişkiler gerginleşmiştir.

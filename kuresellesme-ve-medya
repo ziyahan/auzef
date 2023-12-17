@@ -1,0 +1,184 @@
+Aşağıda bulunan soru ve cevap çiftlerini bir veri seti olarak kullanan.
+BAŞLA dendiği zaman bu sorulardan hareketle çoktan seçmeli bir test sorusu hazırla. Kullanıcıdan cevaplamasını iste.
+Her bir sorunun sonunda, muhtemel sınavda çıkma yüzdesini de göster.
+Kullanıcı doğru cevap verirse tebrik et ve yeni bir soru sor.
+Kullanıcı yanlış cevap verirse doğru seçeneğin ne olduğunu söyle. Yeni bir soru sor. Kullanıcı BİTİR diyene kadar bu işleme devam et.
+Eğer kullanıcı AYRINTI yazarsa, ilgili soru ve doğru cevap için ayrıntılı bilgi ver.
+Talimatlar anlaşıldı ise ANLAŞILDI yaz ve kullanıcıdan komut bekle.
+
+==================
+Sorular ve cevaplar:
+===================
+**Küreselleşme: Temel Kavramlar**
+
+1. **Soru:**
+   - Küreselleşmeyi tanımlayınız.
+   - **Cevap:** Küreselleşme, dünyadaki insanların toplumsal, kültürel ve ekonomik alanlarda yoğun bir iletişim ve etkileşim sürecine girmeleridir.
+
+2. **Soru:**
+   - Küreselleşmenin temel özellikleri nelerdir?
+   - **Cevap:** İnsanların hareketi, ürün ve hizmet dolaşımı, güç/iktidar ilişkileri.
+
+3. **Soru:**
+   - Küreselleşme hangi alanlarda etkili olmaktadır?
+   - **Cevap:** Ekonomik, siyasal, kültürel ve sosyal alanlarda etkilidir.
+
+4. **Soru:**
+   - Küreselleşmenin düzgün işlememesinin nedenleri nelerdir?
+   - **Cevap:** Değişimlerin olumsuz etkileri ve eşitsizlik artışı.
+
+5. **Soru:**
+   - Küreselleşme ile etkilenen kurumlar ve sektörler nelerdir?
+   - **Cevap:** Uluslararası ticaret, finans, iletişim, teknoloji ve kültür.
+
+6. **Soru:**
+   - Küreselleşmenin tarihsel kökenleri nedir?
+   - **Cevap:** Değişim ve etkileşim düşünceleri, sanayi ötesi dönem.
+
+7. **Soru:**
+   - Küreselleşme hangi alanlarda etkili olmuştur?
+   - **Cevap:** Ekonomi, uluslararası ilişkiler, toplum, siyaset, kültür, iletişim, teknoloji.
+
+8. **Soru:**
+   - Küreselleşmenin dünya kültürüne etkisi nedir?
+   - **Cevap:** Farklı kültürlerin etkileşimiyle ortaya çıkan bir dünya kültürü.
+
+9. **Soru:**
+   - Küreselleşme hangi ideolojik değişimleri getirmiştir?
+   - **Cevap:** Ulusal kimliklerde değişim, kültürel zenginleşme, ulus-devletin rolünün azalması.
+
+10. **Soru:**
+	- Küreselleşme yaklaşımları kaça ayrılır?
+	- **Cevap:** Aşırı küreselleşmeciler, kuşkucular, dönüşümcüler.
+
+11. **Soru:**
+	- 'Küresel' ve 'yönetişim' kelimeleri neden bağlantılıdır?
+	- **Cevap:** Küreselleşme ile ulus devlet gücünün azalması, küresel yönetişim ihtiyacını artırır.
+
+12. **Soru:**
+	- Aşırı küreselleşmecilerin ulus devlet görüşü nedir?
+	- **Cevap:** Ulus devletin küreselleşme sürecinde önemini yitirdiği, küresel düzene bıraktığı görüşü.
+
+13. **Soru:**
+	- Francis Fukuyama dünyanın Amerikanlaşmasını nasıl değerlendirir?
+	- **Cevap:** Amerikan değerlerinin yayılmasını demokrasi ve refahın artması olarak olumlu değerlendirir.
+
+14. **Soru:**
+	- İyi yönetişim nasıl gerçekleşir?
+	- **Cevap:** Katılımcılık, şeffaflık, hesap verebilirlik, adalet ve etik değerlere dayalı olarak.
+
+**Küreselleşmenin Ekonomik Boyutu**
+
+15. **Soru:**
+	- Küreselleşmenin ekonomik boyutu nedir?
+	- **Cevap:** Dünya çapındaki ekonomik etkileşimlerin yoğunlaşması ve yaygınlaşması.
+
+16. **Soru:**
+	- Küreselleşmenin ekonomik nedenleri nelerdir?
+	- **Cevap:** Teknolojik gelişmeler, serbest ticaret politikaları, iletişim ve ulaşımın kolaylaşması.
+
+17. **Soru:**
+	- Neo-liberal ekonomi düzeni nedir?
+	- **Cevap:** Devlet müdahalesinin azaltılması, serbest piyasa ekonomisinin teşvik edilmesi anlayışı.
+
+18. **Soru:**
+	- Çokuluslu şirketlerin ekonomi üzerindeki etkisi nedir?
+	- **Cevap:** Dünya ekonomisini şekillendirme, uluslararası ticareti etkileme.
+
+19. **Soru:**
+	- Güneydoğu Asya Krizi hangi ülkeleri etkilemiştir?
+	- **Cevap:** Tayland, Endonezya, Malezya, Güney Kore, Filipinler.
+
+20. **Soru:**
+	- Elektronik ekonominin olumlu ve olumsuz yönleri nelerdir?
+	- **Cevap:** Hızlı para transferi, küresel ticaret kolaylığı (olumlu), finansal krizlerin hızlı yayılması (olumsuz).
+
+21. **Soru:**
+	- Bretton Woods sistemi hangi örgütlerin temellerini atmıştır?
+	- **Cevap:** Uluslararası Para Fonu (IMF), Dünya Bankası.
+
+22. **Soru:**
+	- Uluslararası Para Fonu (IMF) ne işe yarar?
+	- **Cevap:** Uluslararası ekonomik sistemin yönetimi, ekonomik istikrarın sağlanması, üye ülkelere finansal destek.
+
+23. **Soru:**
+	- Dünya Ticaret Örgütü (WTO) nedir?
+	- **Cevap:** Uluslararası ticaret ilişkilerini yönetme ve ticaret anlaşmazlıklarını çöz
+
+me amacı taşıyan bir örgüt.
+
+**Küreselleşmenin Toplumsal ve Kültürel Boyutu**
+
+24. **Soru:**
+	- Küreselleşmenin toplumsal boyutu nedir?
+	- **Cevap:** İnsanların sosyal, kültürel ve toplumsal hayatlarının birbirine daha fazla bağlanması.
+
+25. **Soru:**
+	- Küreselleşmenin kültürel etkileri nelerdir?
+	- **Cevap:** Kültürel çeşitlilik, kültürler arası etkileşim, küresel kültür oluşumu.
+
+26. **Soru:**
+	- Küreselleşme ile gelen dil ve iletişim değişiklikleri nelerdir?
+	- **Cevap:** İngilizcenin küresel dil olması, iletişim teknolojilerinin yaygınlaşması.
+
+27. **Soru:**
+	- Küreselleşmenin eğitim üzerindeki etkisi nedir?
+	- **Cevap:** Uluslararası eğitim standartları, küresel öğrenme fırsatları.
+
+28. **Soru:**
+	- Küreselleşme ile gelen göçün toplumsal etkileri nelerdir?
+	- **Cevap:** Kültürler arası etkileşim, toplumsal çeşitlilik.
+
+29. **Soru:**
+	- Küreselleşmenin toplumsal eşitsizliklere etkisi nedir?
+	- **Cevap:** Zengin-fakir uçurumu, gelir dağılımındaki dengesizlikler.
+
+30. **Soru:**
+	- Küreselleşme ve iletişim teknolojilerinin toplumsal protestolara etkisi nedir?
+	- **Cevap:** Protestoların daha hızlı yayılması, toplumsal değişim talepleri.
+
+**Küreselleşmenin Çevresel Boyutu**
+
+31. **Soru:**
+	- Küreselleşmenin çevresel etkileri nelerdir?
+	- **Cevap:** Doğal kaynakların aşırı kullanımı, çevresel sorunlarının küresel boyutta yayılması.
+
+32. **Soru:**
+	- Küreselleşme ve iklim değişikliği arasındaki ilişki nedir?
+	- **Cevap:** Küresel ekonomik faaliyetlerin iklim değişikliği üzerindeki etkisi.
+
+33. **Soru:**
+	- Küreselleşmenin doğal kaynak tüketimi üzerindeki etkisi nedir?
+	- **Cevap:** Artan talep, doğal kaynakların aşırı kullanımı, çevresel sorunlar.
+
+34. **Soru:**
+	- Küreselleşmenin sürdürülebilir kalkınma ile ilişkisi nedir?
+	- **Cevap:** Ekonomik büyüme ile çevresel ve sosyal sürdürülebilirlik arasındaki denge.
+
+35. **Soru:**
+	- Çevresel aktivizmin küreselleşme ile ilişkisi nedir?
+	- **Cevap:** Küresel çevresel sorunlara karşı ortak mücadele, küresel çevresel politikaların oluşturulması.
+
+**Küreselleşme ve Geleceği**
+
+36. **Soru:**
+	- Küreselleşmenin gelecekteki etkileri neler olabilir?
+	- **Cevap:** Daha fazla teknolojik ilerleme, kültürel çeşitliliğin artması, çevresel sorunların daha fazla önem kazanması.
+
+37. **Soru:**
+	- Küreselleşme ile ilgili mevcut sorunlar nelerdir?
+	- **Cevap:** Eşitsizliklerin artması, çevresel sorunlar, kültürel çatışmalar.
+
+38. **Soru:**
+	- Küreselleşme ile başa çıkmak için önerilen politikalar nelerdir?
+	- **Cevap:** Küresel işbirliği, sürdürülebilir kalkınma politikaları, adaletli ticaret anlaşmaları.
+
+39. **Soru:**
+	- Küreselleşme ve ulus devlet arasındaki ilişki nedir?
+	- **Cevap:** Ulus devletin gücünün azalması, küresel yönetişimin önemi.
+
+40. **Soru:**
+	- Küreselleşme ile ilgili görüş ayrılıkları nelerdir?
+	- **Cevap:** Ekonomik faydaların paylaşımı, kültürel homojenlik vs.
+
+Bu sorular ve cevaplar, küreselleşme konusunu geniş bir perspektiften ele alarak temel kavramları, ekonomik, toplumsal-kültürel ve çevresel boyutlarıyla incelemektedir.

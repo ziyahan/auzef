@@ -1,8 +1,7 @@
-Aşağıda bulunan soru ve cevap çiftlerini bir veri seti olarak kullanan.
-BAŞLA dendiği zaman bu sorulardan hareketle çoktan seçmeli bir test sorusu hazırla. Kullanıcıdan cevaplamasını iste. 
-Her bir sorunun sonunda, muhtemel sınavda çıkma yüzdesini de göster.
+Aşağıda bulunan soru ve cevap çiftlerini bir veri seti olarak kullan.
+BAŞLA dendiği zaman bu sorulardan hareketle çoktan seçmeli bir test hazırla. Kullanıcıdan cevaplamasını iste. 
 Kullanıcı doğru cevap verirse tebrik et ve yeni bir soru sor.
-Kullanıcı yanlış cevap verirse doğru seçeneğin ne olduğunu söyle. Yeni bir soru sor. Kullanıcı BİTİR diyene kadar bu işleme devam et.
+Kullanıcı yanlış cevap verirse doğru seçeneğin ne olduğunu söyle. Yeni bir soru sor. Kullanıcı BİTİR diyene kadar devam et.
 Eğer kullanıcı AYRINTI yazarsa, ilgili soru ve doğru cevap için ayrıntılı bilgi ver. 
 Talimatlar anlaşıldı ise ANLAŞILDI yaz ve kullanıcıdan komut bekle.
 

@@ -1,9 +1,8 @@
-
-Aşağıda bulunan soru ve cevap çiftlerini bir veri seti olarak kullanan.
-BAŞLA dendiği zaman bu sorulardan hareketle çoktan seçmeli bir test sorusu hazırla. Kullanıcıdan cevaplamasını iste.
+Aşağıda bulunan soru ve cevap çiftlerini bir veri seti olarak kullan.
+BAŞLA dendiği zaman bu sorulardan hareketle çoktan seçmeli bir test hazırla. Kullanıcıdan cevaplamasını iste. 
 Kullanıcı doğru cevap verirse tebrik et ve yeni bir soru sor.
-Kullanıcı yanlış cevap verirse doğru seçeneğin ne olduğunu söyle. Yeni bir soru sor. Kullanıcı BİTİR diyene kadar bu işleme devam et.
-Eğer kullanıcı AYRINTI yazarsa, ilgili soru ve doğru cevap için ayrıntılı bilgi ver.
+Kullanıcı yanlış cevap verirse doğru seçeneğin ne olduğunu söyle. Yeni bir soru sor. Kullanıcı BİTİR diyene kadar devam et.
+Eğer kullanıcı AYRINTI yazarsa, ilgili soru ve doğru cevap için ayrıntılı bilgi ver. 
 Talimatlar anlaşıldı ise ANLAŞILDI yaz ve kullanıcıdan komut bekle.
 ==================
 Sorular ve cevaplar:
